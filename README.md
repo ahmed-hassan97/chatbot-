@@ -1,9 +1,9 @@
 # chatbot using natural language processing
 
 ---
-### gui chatbot
+### chatbot gui
 
-# ![Project Image](https://user-images.githubusercontent.com/50107057/82842333-618ddb80-9ed9-11ea-9547-ae6c73ecbdb3.PNG)
+<img align="center" width="600" height="200" src="https://user-images.githubusercontent.com/50107057/82842333-618ddb80-9ed9-11ea-9547-ae6c73ecbdb3.PNG">
 
 ---
 
@@ -23,7 +23,7 @@ In this project i will build chatbot based on natural language processing this p
 
 is divided into steps
 
-               <h1> steps of this project </h1>
+# steps of this project 
 
 - first i will build chatbot gui using Tkinter framework
 - second Initializing Chatbot Training
