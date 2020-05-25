@@ -4,7 +4,7 @@
 ### chatbot gui
 
 <p align="center">
-  <img width="200" height="400" src="https://user-images.githubusercontent.com/50107057/82842333-618ddb80-9ed9-11ea-9547-ae6c73ecbdb3.PNG">
+  <img width="300" height="400" src="https://user-images.githubusercontent.com/50107057/82842333-618ddb80-9ed9-11ea-9547-ae6c73ecbdb3.PNG">
 </p>
 
 ---
